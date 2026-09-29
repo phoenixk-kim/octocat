@@ -39,3 +39,18 @@ Hi, I'm Phoenixk. You might recognize me as GitHub's mascot.
 
 <!-- COMMENT -->
 `COMMENT`을(를) 나중에 작업을 수행하도록 미리 알려주는 "할 일" 항목으로 대체합니다(예: 테이블에 항목을 추가).
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
